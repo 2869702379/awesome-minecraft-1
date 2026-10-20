@@ -813,6 +813,7 @@ A good pull request should include:
 - Its status: recommended, specialized, commercial, legacy, experimental, or caution.
 - Why it is worth including.
 - Whether it is open source, commercial, or closed-source when relevant.
+- Wheter the pull request author is an automated AI agent or not and what AI model and harness it's using.
 
 ### Entry Format
 
