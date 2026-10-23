@@ -689,6 +689,7 @@ Removed from the main list: random direct downloads, abandoned PvP clients, and 
 - [Crafty Controller](https://craftycontrol.com/) — Minecraft-focused server management panel.
 - [AMP](https://cubecoders.com/AMP) — Commercial game server management panel.
 - [MCSManager](https://mcsmanager.com/) — Web panel for game server management.
+- [FeatherPanel](https://featherpanel.com/) — Open-source (AGPL-3.0) game server panel; servers run in Docker containers via the FeatherWings daemon.
 
 ### Backups
 
