@@ -734,6 +734,7 @@ Removed from the main list: random direct downloads, abandoned PvP clients, and 
 - [PacketEvents Docs](https://docs.packetevents.com/) — PacketEvents documentation.
 - [Geyser Wiki](https://wiki.geysermc.org/) — Geyser and Floodgate setup docs.
 - [Minecraft Wiki](https://minecraft.wiki/) — Community wiki now hosted independently from Fandom. **Recommended**
+- [mcguide](https://mcguide.cn/zh/) — Bilingual (Chinese/English) Minecraft guide and crafting reference: 200+ structured recipe pages, seed database, and mod/building guides. **Specialized**
 - [Java Edition Protocol](https://minecraft.wiki/w/Java_Edition_protocol) — Protocol documentation.
 - [PrismarineJS Docs](https://prismarinejs.github.io/) — Documentation for PrismarineJS projects.
 - [wiki.vg Historical Mirror](https://c4k3.github.io/wiki.vg/) — Historical protocol documentation. **Legacy**
